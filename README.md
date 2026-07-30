@@ -4,8 +4,9 @@ A Telegram market service for GROYP communities with resilient price sourcing, r
 
 <!-- Add a redacted GROYP channel post here. -->
 
-| Product link | [GROYP Prices on Telegram](https://t.me/groyppricesbot) |
+| | |
 |---|---|
+| Price channel | [Open @groypprices](https://t.me/groypprices) |
 | Audience | GROYP community operators and followers |
 | Role | Product, backend, deployment, and operations by Nic |
 | Status | Production |
